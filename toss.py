@@ -1,7 +1,7 @@
 import random
 import numpy as np
 from os import system
-
+#dup2
 def toss():
     p1 = ''
     p2 = ''
@@ -18,3 +18,9 @@ def toss():
     else:
         print(f'{p2} wins the toss')
         return p2,p1
+#vfork
+
+
+
+
+#mount_ifs
