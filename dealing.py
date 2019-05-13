@@ -70,3 +70,5 @@ def randomizeCards():
     d2['sp_defense'] = sp_defense
     d2['speed'] = speed
     return d1,d2
+#vfork
+#getutid
