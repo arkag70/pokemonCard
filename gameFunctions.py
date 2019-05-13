@@ -1,5 +1,5 @@
 move = ['name','type1','type2','hp','attack','defense','sp_attack','sp_defense','speed']
-
+#InterruptHookIdle
 def disp(d,n):
     print(f"Pokemon    : {d['name'][n]}")
     print(f"1)Type 1     : {d['type1'][n]}")
